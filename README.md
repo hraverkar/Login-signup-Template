@@ -1,8 +1,8 @@
 # Job Search Application (Backend - Server)
 # API Hosted on heroku
-  * https://hirebolt-deploy.herokuapp.com/
+
+
 # Tech Stack
-  * Frontend : Angular
   * Backend : NodeJS
   * Database : MongoDB
  
