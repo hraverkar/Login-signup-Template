@@ -72,7 +72,6 @@ function initial() {
 
 // routes
 require("./routes/auth.routes")(app);
-require("./routes/userAuth.routes")(app);
 
 
 app.get('/', (req, res) => {
